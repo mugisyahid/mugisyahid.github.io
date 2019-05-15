@@ -2,7 +2,7 @@
 layout: post
 title: "Firstblood"
 date: 2019-05-14
-description: blablabla
+description: testing latex
 tags: math latex
 ---
 

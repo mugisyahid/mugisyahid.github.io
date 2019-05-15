@@ -1,15 +1,7 @@
 <!DOCTYPE html>
 <html>
 
-<head>
-	{% if site.tags != "" %}
-	{% include collecttags.html %}
-	{% endif %}
-
-	<title>{{ page.title }}</title>
-	<!-- link to main stylesheet -->
-	<link rel="stylesheet" type="text/css" href="/css/main.css">
-</head>
+	{% include head.html %}
 
 <body>
 	<nav>
@@ -25,24 +17,7 @@
 		{{ content }}
 
 	</div><!-- /.container -->
-	<footer>
-		<h2>Archive</h2>
-		{% capture temptags %}
-		{% for tag in site.tags %}
-		{{ tag[1].size | plus: 1000 }}#{{ tag[0] }}#{{ tag[1].size }}
-		{% endfor %}
-		{% endcapture %}
-		{% assign sortedtemptags = temptags | split:' ' | sort | reverse %}
-		{% for temptag in sortedtemptags %}
-		{% assign tagitems = temptag | split: '#' %}
-		{% capture tagname %}{{ tagitems[1] }}{% endcapture %}
-		<a href="/tag/{{ tagname }}"><code class="highligher-rouge"><nobr>{{ tagname }}</nobr></code></a>
-		{% endfor %}
-		<ul>
-			<li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
-			<li><a href="https://github.com/hankquinlan">github.com/hankquinlan</a></li>
-		</ul>
-	</footer>
+	{% include footer.html %}
 </body>
 
 </html>
