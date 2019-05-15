@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ligar Mugi SyahidLaunches Site"
+title: "Ligar Mugi Syahid Launches Site"
 date: 2014-04-30
 ---
 
