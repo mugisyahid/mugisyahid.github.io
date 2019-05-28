@@ -6,9 +6,7 @@ description: calculate size of JSON Payload
 tags: javascript
 ---
 
-# Size of JSON Payload
-
-without the "key" size, 
+without calculating the "key" size, 
 
 
 use [sizeof](https://github.com/miktam/sizeof) npm package
