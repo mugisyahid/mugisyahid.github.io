@@ -9,3 +9,4 @@ tags: stock
 ```bash
 To Be Updated
 ```
+source: [educba.com](https://www.educba.com/price-to-book-value-formula/)
