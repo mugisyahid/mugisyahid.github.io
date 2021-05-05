@@ -7,21 +7,22 @@ tags: stock
 ---
 
 Some good principles/quotes to follow in stock trading based on my memory. Please correct me!
+
 ```
-Buy wonderful company share at fair price. Not buy fair company share at fair price.
+1. Buy wonderful company share at fair price. Not buy fair company share at fair price.
 --- Warrent Buffet
 ```
 
 ```
-if company is not predictable, forget it.
+2. if company is not predictable, forget it.
 --- Warrent Buffet
 ```
 
 ```
-The Price of share will always follow the fundamental of the company.
+3. The Price of share will always follow the fundamental of the company.
 ```
 
 
 ```
-Buy the share in fair value, possibly undervalue.
+4. Buy the share in fair value, possibly undervalue.
 ```
