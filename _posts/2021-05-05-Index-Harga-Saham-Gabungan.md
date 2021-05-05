@@ -14,4 +14,4 @@ Manfaat index saham: Menugkur sentimen pasar / tingkat kepercayaan investor, acu
 
 Beberapa index saham di Indonesia:
 
-* Index Harga Saham Gabungan (IHSG), Index saham yang mengukur kinerja harga semua saham di BEI.  
+* Index Harga Saham Gabungan (IHSG), Index saham yang mengukur kinerja harga semua saham di BEI. Apabila IHSG naik tajam, jangan beli saham, jual saham. Apabila sebaliknya, IHSG turun, beli saham dengan analisis fundamental sebelumnya. 
