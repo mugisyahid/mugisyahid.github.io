@@ -1,0 +1,39 @@
+- number: 1
+  name: Android-Java
+  year: 2013
+  star: <i class="fa-solid fa-star">
+
+- number: 2
+  name: Spring 3,4
+  year: 2015
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 3
+  name: Spring Boot
+  year: 2017
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 4
+  name: C#
+  year: 2013
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star-half">
+
+- number: 5
+  name: Groovy
+  year: 2017
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star-half">
+
+- number: 6
+  name: javascript / nodejs
+  year: 2018
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 7
+  name: Python
+  year: 2018
+  star: <i class="fa-solid fa-star">
+
+- number: 8
+  name: Ruby
+  year: 2018
+  star: <i class="fa-solid fa-star">

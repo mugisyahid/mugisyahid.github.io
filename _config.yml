@@ -1,0 +1,95 @@
+title:              Ligar Mugi Syahid
+email:              mugisyahid@gmail.com
+description:        Religion, Stock, Programming & Family
+author:             Ligar Mugi Syahid
+baseurl:            "/"
+url:                "https://mugisyahid.github.io"
+
+# Incremental regeneration helps shorten build times by only generating documents and pages that were updated since the previous build.
+# https://jekyllrb.com/docs/configuration/incremental-regeneration/
+incremental: true
+
+future: true
+
+# Social Profiles
+twitter_username:   
+github_username:    mugisyahid
+facebook_username:  
+instagram_username:  
+linkedin_username:
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+sass:
+  sass_dir: _sass
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-last-modified-at
+  - jekyll-toc
+
+# Optional. The default date format, used if none is specified in the tag.
+last-modified-at:
+    date-format: '%B %d, %Y'
+
+# Resume settings
+resume_avatar:                  "true"
+resume_name:                    "Ligar Mugi Syahid"
+resume_title:                   "Software Developer"
+
+# used for the contact button in _layouts/resume.html
+resume_contact_email:           "mugisyahid@gmail.com, ligar@alumni.itb.ac.id"
+
+# the next two items are used for schema itemprops in _layouts/resume.html
+resume_contact_telephone:       "+62 85722185781"
+resume_contact_address:         "Jln. Ipik Gandamanah No. 77 Purwakarta"
+
+resume_header_contact_info:     "Jln. Ipik Gandamanah No. 77 Purwakarta • +62 85722185781 • mugisyahid@gmail.com"
+display_header_contact_info:    "false"
+
+resume_header_intro: "<p>Software engineer with mathematics background. My work required utilizing organizational, communication, unit testing and programming skills. Excellent at writing reports, presentation, optimization problems, analytical, implementing algorithms into various programming languages. Experienced in Banking, HR, Telco, F&B, customer services, Aviation business. Current interest in Information Security, IT Management, Big Data & Machine Learning.</p>"
+
+# use "yes" to display the email contact button,
+# "no" to display an "I'm not looking for work" message,
+# or remove the resume_looking_for_work option entirely
+# to leave blank
+resume_looking_for_work:        "no"
+
+# Decide which sections to use
+# comment out to hide
+resume_section_experience:      true
+resume_section_education:       true
+resume_section_projects:        true
+resume_section_skills:          true
+resume_section_recognition:     true
+resume_section_links:           true
+resume_section_associations:    true
+resume_section_workshop:        true
+# resume_section_interests:       true
+
+# Resume social links
+# uncomment the options you wish to display, and add your own URL
+resume_social_links:
+  resume_github_url:            "https://github.com/mugisyahid"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/ligar-mugi-syahid-a60a5677/"
+  # resume_instagram_url:         "insert your Instagram URL here"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
+resume_print_social_links:      true
+
+# Design settings
+resume_theme:                   default
+
+# Note: when editing locally, remember to restart
+# your Jekyll server when you edit this file. Changes
+# to _config.yml are only recognized when the server starts

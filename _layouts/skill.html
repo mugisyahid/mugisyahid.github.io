@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+
+{% include head_2.html %}
+
+<html>
+
+{% include navbar_2.html %}
+
+<br />
+<br />
+<br />
+
+<body class="theme-{% if site.resume_theme %}{{ site.resume_theme }}{% endif %}">
+  <div class="wrapper">
+    <div style="text-align: center; justify-content: center;">
+      <h3 class="jss391">Version Control System</h3>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>VCS</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for vcs in site.data.programmingversion %}
+          <tr>
+            <td>{{ vcs.number }}</td>
+            <td>{{ vcs.name }}</td>
+            <td>{{ vcs.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+    <div style="text-align: center; justify-content: center;">
+      <h3 class="jss391">Programming Language</h3>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Programming Language</th>
+            <th>First "Hello World!"</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for lang in site.data.programminglanguage %}
+          <tr>
+            <td>{{ lang.number }}</td>
+            <td>{{ lang.name }}</td>
+            <td>{{ lang.year }}</td>
+            <td>{{ lang.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+
+
+    <div style="text-align: center; justify-content: center;">
+      <h3 class="jss391">Tech Stack / Framework</h3>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Framework</th>
+            <th>First "Hello World!"</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for tech in site.data.programmingframework %}
+          <tr>
+            <td>{{ tech.number }}</td>
+            <td>{{ tech.name }}</td>
+            <td>{{ tech.year }}</td>
+            <td>{{ tech.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h4 class="jss391">Other Tech Stack</h4>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Software</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for other in site.data.programmingframeworkother %}
+          <tr>
+            <td>{{ other.number }}</td>
+            <td>{{ other.name }}</td>
+            <td>{{ other.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+    </div>
+
+    <div style="text-align: center; justify-content: center;">
+      <h3 class="jss391">Databases & Messaging</h3>
+      <br />
+      <h4 class="jss391">SQL</h4>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Databases</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for database in site.data.programmingdatabase %}
+          <tr>
+            <td>{{ database.number }}</td>
+            <td>{{ database.name }}</td>
+            <td>{{ database.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h4 class="jss391">NOSQL</h4>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Databases</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for database in site.data.programmingdatabasenosql %}
+          <tr>
+            <td>{{ database.number }}</td>
+            <td>{{ database.name }}</td>
+            <td>{{ database.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+      <h4 class="jss391">Messaging & Queue</h4>
+      <table class="table table-striped table-bordered table-condensed table-hover">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Databases</th>
+            <th>Level</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for database in site.data.programmingdatabasemsg %}
+          <tr>
+            <td>{{ database.number }}</td>
+            <td>{{ database.name }}</td>
+            <td>{{ database.star }}</i>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</body>
+
+</html>

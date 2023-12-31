@@ -1,0 +1,15 @@
+- number: 1
+  name: MySQL / MariaDB
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star-half">
+
+- number: 2
+  name: Oracle
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 3
+  name: SQL Server
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 4
+  name: Postgres
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star">

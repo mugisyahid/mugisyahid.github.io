@@ -1,0 +1,11 @@
+- number: 1
+  name: Redis
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 2
+  name: RabitMQ
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 3
+  name: Apache Kafka
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">

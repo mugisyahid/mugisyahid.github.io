@@ -1,0 +1,7 @@
+- number: 1
+  name: MongoDB	
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star"><i class="fa-solid fa-star">
+
+- number: 2
+  name: Cassandra
+  star: <i class="fa-solid fa-star"><i class="fa-solid fa-star">
