@@ -45,4 +45,8 @@ Up Probability|35%|56%|50%|50%|62%|50%|62%|38%|44%|50%|31%|53%|56%
 
 <br />
 
-## Activity, Buy Area 23.000
+## Activity, Buy Area <23.000
+
+
+## 2023 Refection
+- Terendah di Mei, setelah dividen, 22.000.

@@ -39,3 +39,6 @@ Up Probability|44%|50%|38%|50%|11%|56%|44%|56%|22%|67%|33%|22%|30%
 <br />
 
 ## Activity, Buy Area 159
+
+## 2023 Refection
+- harga terendah ~159 di bulan januari. hanya beli di januari.

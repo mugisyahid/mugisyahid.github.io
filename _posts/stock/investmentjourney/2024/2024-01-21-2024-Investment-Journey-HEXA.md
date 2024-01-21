@@ -48,3 +48,8 @@ Up Probability|60%|58%|53%|63%|58%|63%|63%|47%|63%|32%|37%|37%|50%
 <br />
 
 ## Activity, Buy Area 4900
+
+
+## 2023 Refection
+- Terendah di Maret, 4900.
+- Terendah ke 2 di Oktober setelah dividen, 5200. Beli setelah turun sebanyak dividen

@@ -38,3 +38,8 @@ Up Probability|12%|43%|29%|57%|14%|38%|38%|38%|25%|38%|38%|38%|44%
 <br />
 
 ## Activity, Buy Area 680
+
+
+
+## 2023 Refection
+- Saham sisiran. Beli setelah cum dividen, ~670, bulan Mei & Desember.

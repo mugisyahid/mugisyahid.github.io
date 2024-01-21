@@ -47,3 +47,8 @@ Up Probability|75%|63%|63%|58%|42%|58%|63%|37%|47%|58%|26%|79%|55%
 <br />
 
 ## Activity, Buy Area 22.000
+
+
+## 2023 Refection
+- Beli setelah dividen, Mei, 22.000
+- Best buy, Dec, 20.000

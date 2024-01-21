@@ -42,3 +42,7 @@ Up Probability|45%|60%|30%|80%|45%|0%|45%|45%|45%|64%|64%|64%|33%
 <br />
 
 ## Activity, Buy Area 990
+
+
+## 2023 Refection
+- Beli habis dividen trap, Jun di harga 980. Cenderung sideway.

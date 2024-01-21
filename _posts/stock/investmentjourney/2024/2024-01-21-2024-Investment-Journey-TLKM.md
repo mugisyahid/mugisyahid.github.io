@@ -48,3 +48,8 @@ Up Probability|35%|47%|53%|68%|32%|58%|79%|47%|63%|32%|53%|74%|60%
 <br />
 
 ## Activity, Buy Area 3400
+
+
+## 2023 Refection
+- Turun dan baru sideway setelah 2 bulan dari dividen, 3700, Agustus.
+- Best buy, November 3400.

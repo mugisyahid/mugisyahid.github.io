@@ -49,3 +49,7 @@ Up Probability|45%|63%|47%|68%|53%|53%|68%|47%|37%|47%|32%|68%|55%
 <br />
 
 ## Activity, Buy Area 2300
+
+
+## 2023 Refection
+- Sideway setelah dividen, baru turun di november, 2300.

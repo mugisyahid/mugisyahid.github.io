@@ -48,4 +48,8 @@ Up Probability|55%|53%|58%|42%|58%|74%|63%|53%|42%|26%|47%|53%|65%
 
 <br />
 
-## Activity, Buy Area 3000
+## Activity, Buy Area < 3000
+- cicil beli only if < 3000
+
+## 2023 Refection
+- Downtren

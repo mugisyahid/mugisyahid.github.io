@@ -35,3 +35,7 @@ Up Probability|33%|40%|40%|40%|17%|67%|50%|17%|0%|33%|50%|50%|29%
 <br />
 
 ## Activity, Buy Area 550
+
+
+## 2023 Refection
+- Saham sideway, pantau EPS. Best buy di Maret-Mei, 535.

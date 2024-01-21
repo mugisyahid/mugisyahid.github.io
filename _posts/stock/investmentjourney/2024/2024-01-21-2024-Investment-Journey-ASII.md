@@ -48,5 +48,11 @@ Up Probability|55%|53%|58%|58%|37%|58%|63%|32%|53%|68%|37%|79%|55%
 
 <br />
 ## Activity, Buy Area 5000 
-- 19 January 2024
-Turun ke lowest 1Y, 5325. Buy
+
+- 19 January 2024, Buy. 
+Turun ke lowest 1Y, 5325. 
+Sentimen skandal pemalsuan keamanan daihatsu. 
+
+
+## 2023 Refection
+- harga terendah ~5200 di bulan januari. hanya beli di januari.

@@ -46,3 +46,7 @@ mermaid: true
 ## Activity, Buy Area 2200
 - 19 January 2024
 Turun ke 2430. Buy
+
+
+## 2023 Refection
+- harga terendah ~2000 di juni setelah dividen bulan mei. hanya beli di jun.

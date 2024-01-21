@@ -41,3 +41,8 @@ Up Probability|36%|90%|10%|40%|50%|20%|70%|30%|20%|60%|60%|36%|50%
 <br />
 
 ## Activity, Buy Area 500
+
+
+## 2023 Refection
+- Saham downtrend, laba turun, growth menurun.
+- Beli setelah dividen november, ~490.

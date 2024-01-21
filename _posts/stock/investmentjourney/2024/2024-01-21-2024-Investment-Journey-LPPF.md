@@ -49,3 +49,9 @@ Up Probability|30%|47%|37%|32%|26%|16%|26%|32%|21%|37%|32%|42%|55%
 <br />
 
 ## Activity, Buy Area 1700
+
+
+## 2023 Refection
+- all out dividen. kebijakan min ~50% DPR. selalu cek EPS.
+- Valuasi ngaco gara-gara kas nya di kuras. Pantau dengan ketat.
+- Lowest price di Nov, 1500.
