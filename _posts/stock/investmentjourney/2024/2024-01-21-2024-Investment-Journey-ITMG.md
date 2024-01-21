@@ -45,4 +45,4 @@ Up Probability|35%|56%|50%|50%|62%|50%|62%|38%|44%|50%|31%|53%|56%
 
 <br />
 
-## Activity 
+## Activity, Buy Area 23.000

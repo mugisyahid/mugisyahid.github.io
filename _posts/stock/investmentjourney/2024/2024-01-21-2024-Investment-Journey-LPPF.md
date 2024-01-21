@@ -48,4 +48,4 @@ Up Probability|30%|47%|37%|32%|26%|16%|26%|32%|21%|37%|32%|42%|55%
 
 <br />
 
-## Activity 
+## Activity, Buy Area 1700

@@ -47,6 +47,6 @@ Total|20|19|19|19|19|19|19|19|19|19|19|19|20
 Up Probability|55%|53%|58%|58%|37%|58%|63%|32%|53%|68%|37%|79%|55%
 
 <br />
-## Activity 
+## Activity, Buy Area 5000 
 - 19 January 2024
 Turun ke lowest 1Y, 5325. Buy

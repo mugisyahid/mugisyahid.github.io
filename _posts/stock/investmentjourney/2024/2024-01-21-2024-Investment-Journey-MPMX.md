@@ -41,4 +41,4 @@ Up Probability|45%|60%|30%|80%|45%|0%|45%|45%|45%|64%|64%|64%|33%
 
 <br />
 
-## Activity 
+## Activity, Buy Area 990

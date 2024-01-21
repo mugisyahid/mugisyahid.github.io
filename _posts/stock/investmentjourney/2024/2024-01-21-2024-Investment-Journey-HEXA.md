@@ -47,4 +47,4 @@ Up Probability|60%|58%|53%|63%|58%|63%|63%|47%|63%|32%|37%|37%|50%
 
 <br />
 
-## Activity 
+## Activity, Buy Area 4900
