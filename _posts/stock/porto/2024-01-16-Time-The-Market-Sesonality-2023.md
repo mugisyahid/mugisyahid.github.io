@@ -27,7 +27,7 @@ mermaid: true
 # Time The Market - Buy Table 2023
 <br />
 
-| | Stock | Remark |
+| | Stock | Price Target |
 |:-:|:-:|:-:|
 | Jan | $ADRO, $ASII, $DMAS | $ADRO < 2400, $ASII < 5200, $DMAS < 159 |
 | Feb | | |
