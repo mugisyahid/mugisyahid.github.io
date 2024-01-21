@@ -24,8 +24,15 @@ mermaid: true
 | Nov | | | | | | | | | | | | <span class="dividen">I</span> | | | | 1 |
 | Dec | <span class="dividen">I</span>  | | <span class="dividen">I</span> | | | | | | <span class="dividen">I</span>| | | | | | <span class="dividen">I</span> | 4 | 
 
-# Time The Market - Buy Table 2023
 <br />
+- <span class="buy">B</span>: Buy
+- <span class="sell">S</span>: Sell
+- <span class="dividen">I</span>: Dividen Interim
+- <span class="dividen">F</span>: Dividen Final
+
+Keys takeaway:
+
+# Time The Market - Buy Table 2023
 
 | | Stock | Price Target |
 |:-:|:-:|:-:|
@@ -63,13 +70,3 @@ mermaid: true
 | $TLKM | never | 
 | $UNTR | Coal < $80, out dari batu bara, masuk klo perusahaan rugi | 
 | $UNVR | ? | 
-
-
-
-<br />
-- <span class="buy">B</span>: Buy
-- <span class="sell">S</span>: Sell
-- <span class="dividen">I</span>: Dividen Interim
-- <span class="dividen">F</span>: Dividen Final
-
-Keys takeaway:
