@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Investment Journey ASII"
-date: 2024-01-16
+date: 2024-01-21
 description: 2024 Investment Journey ASII
 tags: stock timethemarket investmentjourney
 mermaid: true
@@ -37,6 +37,7 @@ Average|0,065277778|-1.57|02.53|0,098611111|0,050694444|02.24|03.17|-1.98|00.41|
 2006|0,108333333|-5.77|0,638888889|06.22|-17.99|-0.51|-1.54|0,668055556|12.16|0,335416667|19.03|-1.57|52.43.00
 2005|0,214583333|07.46|-2.78|00.48|0,479166667|08.55|0,190277778|-23.11|-3.94|-4.62|-2.15|12.09|05.15
 
+<br />
 
 |[Stockbit](https://stockbit.com/symbol/ASII/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|

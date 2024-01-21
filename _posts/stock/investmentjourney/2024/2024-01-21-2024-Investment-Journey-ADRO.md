@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Investment Journey ADRO"
-date: 2024-01-16
+date: 2024-01-21
 description: 2024 Investment Journey ADRO
 tags: stock timethemarket investmentjourney
 mermaid: true
@@ -33,6 +33,7 @@ mermaid: true
 |2009|52.58.00|04.05|14.29|0,688194444|31.37.00|-10.45|0,296527778|06.25|05.15|0,339583333|0,56875|-0.57|253.06.00|
 |2008|||||||00.00|-8.88|-9.09|-51.43|-23.53|-6.73|-67.67|
 
+<br />
 
 |[Stockbit](https://stockbit.com/symbol/ADRO/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2024 Investment Journey DMAS"
-date: 2024-01-16
+date: 2024-01-21
 description: 2024 Investment Journey DMAS
 tags: stock timethemarket investmentjourney
 mermaid: true
@@ -26,6 +26,8 @@ Average|03.57|0,048611111|-7.74|0,135416667|-4.40|00.39|05.40|00.05|-2.01|0,2694
 2017|03.48|0,088888889|-5.79|05.26|-8.33|-1.82|-3.70|-1.92|-1.96|-6.00|-8.51|-0.58|-25.00
 2016|-4.65|00.00|00.49|-0.97|0,148611111|0,143055556|25.00.00|-6.67|-2.38|03.25|-9.45|00.00|04.55
 2015|||||00.00|00.46|-8.64|-11.94|07.34|17.37|-6.73|03.37|-4.44
+
+<br />
 
 |[Stockbit](https://stockbit.com/symbol/DMAS/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
