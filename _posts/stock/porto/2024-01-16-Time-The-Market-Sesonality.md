@@ -14,12 +14,12 @@ Time The Market - Sesionality
 | Jan | | | | | | | | | | | | | | | | 
 | Feb | | | | | | | | | | | | | | | |
 | Mar | | | | | | | | | | | | | | | |
-| Apr | | | | | | <span class="dividen">F</span>| | | | | | | | | |
+| Apr | | | | | | <span class="dividen">F</span>|  <span class="dividen">F</span> | | | | | | | | |
 | May | <span class="dividen">F</span> | <span class="dividen">F</span> | | | | | | | | | | | | | |
-| Jun | | | | |  | | | | | | | | | | |
+| Jun | | | | |  | | | <span class="dividen">F</span> | | | | | | | |
 | Jul | | | <span class="dividen">F</span> |  | <span class="dividen">F</span> | | | | | | | | | | |
 | Aug | | | | | | | | | | | | | | | |
-| Sep | | | | | | <span class="dividen">F</span> | | | | | | | | | |
+| Sep | | | | | | <span class="dividen">I</span> | | | | | | | | | |
 | Oct | | <span class="dividen">I</span> |  |<span class="dividen">F</span> | | | | | | | | | | | |
 | Nov | | | | | | | | | | | | | | | |
 | Dec | <span class="dividen">I</span>  | | <span class="dividen">I</span> | | | | | | | | | | | | |

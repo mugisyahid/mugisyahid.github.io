@@ -12,9 +12,8 @@ mermaid: true
 
 ## Seasonality per 2023
 
-|[Stockbit](https://stockbit.com/symbol/INDF/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
+|[Stockbit](https://stockbit.com/symbol/ITMG/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year
 Average|02.53|06.06|-1.39|-0.23|0,185416667|-0.73|08.53|-0.69|-0.80|-1.43|01.55|00.16|21.24
 2024|04.48||||||||||||0,214583333
 2023|-7.24|0,136111111|0,271527778|-15.48|-33.56|09.04|0,552083333|06.34|00.17|-8.46|-7.45|04.48|-34.31
@@ -37,7 +36,7 @@ Average|02.53|06.06|-1.39|-0.23|0,185416667|-0.73|08.53|-0.69|-0.80|-1.43|01.55|
 
 <br />
 
-|[Stockbit](https://stockbit.com/symbol/INDF/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
+|[Stockbit](https://stockbit.com/symbol/ITMG/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Up|6|9|8|8|10|8|10|6|7|8|5|9|10
 Down|11|7|7|8|6|8|6|10|9|8|11|7|8
