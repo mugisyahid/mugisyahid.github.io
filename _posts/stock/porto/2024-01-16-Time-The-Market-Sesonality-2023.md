@@ -9,20 +9,20 @@ mermaid: true
 
 Time The Market - Sesionality 2023
 
-|  | $ADRO | $ASII | $DMAS | $HEXA | $INDF | $ITMG | $LPPF | $MPMX | $POWR | $PTBA | $SIDO | $SPTO | $TLKM | $UNTR | $UNVR |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| Jan | | | | | | | | | | | | | | | | 
-| Feb | | | | | | | | | | | | | | | |
-| Mar | | | | | | | | | | | | | | | |
-| Apr | | | | | | <span class="dividen">F</span>|  <span class="dividen">F</span> | | | | <span class="dividen">F</span> | | |<span class="dividen">F</span> | |
-| May | <span class="dividen">F</span> | <span class="dividen">F</span> | | | | | | | | | | | | | |
-| Jun | | | | |  | | | <span class="dividen">F</span> | <span class="dividen">F</span> | <span class="dividen">F</span> | | <span class="dividen">F</span> | <span class="dividen">F</span>| | |
-| Jul | | | <span class="dividen">F</span> |  | <span class="dividen">F</span> | | | | | | | | | | <span class="dividen">F</span> |
+|  | $ADRO | $ASII | $DMAS | $HEXA | $INDF | $ITMG | $LPPF | $MPMX | $POWR | $PTBA | $SIDO | $SPTO | $TLKM | $UNTR | $UNVR | Total |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Jan | | | | | | | | | | | | | | | | |
+| Feb | | | | | | | | | | | | | | | | |
+| Mar | | | | | | | | | | | | | | | | |
+| Apr | | | | | | <span class="dividen">F</span>|  <span class="dividen">F</span> | | | | <span class="dividen">F</span> | | |<span class="dividen">F</span> | | 4 |
+| May | <span class="dividen">F</span> | <span class="dividen">F</span> | | | | | | | | | | | | | | 2 |
+| Jun | | | | |  | | | <span class="dividen">F</span> | <span class="dividen">F</span> | <span class="dividen">F</span> | | <span class="dividen">F</span> | <span class="dividen">F</span>| | | 5 |
+| Jul | | | <span class="dividen">F</span> |  | <span class="dividen">F</span> | | | | | | | | | | <span class="dividen">F</span> | 3 |
 | Aug | | | | | | | | | | | | | | | |
-| Sep | | | | | | <span class="dividen">I</span> | | | | | | | | | |
-| Oct | | <span class="dividen">I</span> |  |<span class="dividen">F</span> | | | | | | |<span class="dividen">I</span> | | |<span class="dividen">I</span> | |
-| Nov | | | | | | | | | | | | <span class="dividen">I</span> | | | |
-| Dec | <span class="dividen">I</span>  | | <span class="dividen">I</span> | | | | | | <span class="dividen">I</span>| | | | | | <span class="dividen">I</span> |
+| Sep | | | | | | <span class="dividen">I</span> | | | | | | | | | | 1 |
+| Oct | | <span class="dividen">I</span> |  |<span class="dividen">F</span> | | | | | | |<span class="dividen">I</span> | | |<span class="dividen">I</span> | | 4 |
+| Nov | | | | | | | | | | | | <span class="dividen">I</span> | | | | 1 |
+| Dec | <span class="dividen">I</span>  | | <span class="dividen">I</span> | | | | | | <span class="dividen">I</span>| | | | | | <span class="dividen">I</span> | 4 | 
 
 
 
