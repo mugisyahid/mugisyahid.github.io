@@ -15,21 +15,21 @@ Time The Market - Sesionality
 | Feb | | | | | | | | | | | | | | | |
 | Mar | | | | | | | | | | | | | | | |
 | Apr | | | | | | | | | | | | | | | |
-| May | F | F | | | | | | | | | | | | | |
+| May | <span class="dividen">F</span> | <span class="dividen">F</span> | | | | | | | | | | | | | |
 | Jun | | | | |  | | | | | | | | | | |
-| Jul | | | F | |  | | | | | | | | | | |
+| Jul | | | <span class="dividen">F</span> | |  | | | | | | | | | | |
 | Aug | | | | | | | | | | | | | | | |
 | Sep | | | | | | | | | | | | | | | |
-| Oct | | I |  |F | | | | | | | | | | | |
+| Oct | | <span class="dividen">I</span> |  |<span class="dividen">F</span> | | | | | | | | | | | |
 | Nov | | | | | | | | | | | | | | | |
-| Dec | I  | | I | | | | | | | | | | | | |
+| Dec | <span class="dividen">I</span>  | | <span class="dividen">I</span> | | | | | | | | | | | | |
 
 
 
 <br />
-- B: Buy
-- S: Sell
-- I: Dividen Interim
-- F: Dividen Final
+- <span class="buy">B</span>: Buy
+- <span class="sell">S</span>: Sell
+- <span class="dividen">I</span>: Dividen Interim
+- <span class="dividen">F</span>: Dividen Final
 
 Keys takeaway:
