@@ -45,7 +45,6 @@ mermaid: true
 
 # Time The Market - Sell Table 2023
 
-, sell kalau DPR < 50%
 
 | Stock | Sell |
 |:-:|:-:|
