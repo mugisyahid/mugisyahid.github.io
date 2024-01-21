@@ -32,6 +32,7 @@ mermaid: true
 
 
 <br />
+- H: High
 - L: low
 - D: Dividen
 
