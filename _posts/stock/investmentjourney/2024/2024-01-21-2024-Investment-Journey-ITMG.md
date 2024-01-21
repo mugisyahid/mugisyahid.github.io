@@ -7,3 +7,10 @@ tags: stock timethemarket investmentjourney
 mermaid: true
 ---
 
+# 2024 Investment Journey ITMG
+
+
+## Seasonality per 2023
+
+
+## Activity 

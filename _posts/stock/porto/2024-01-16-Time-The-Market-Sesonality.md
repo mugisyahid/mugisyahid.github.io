@@ -7,21 +7,22 @@ tags: stock timethemarket
 mermaid: true
 ---
 
+Time The Market - Sesionality
 
-| Month \ Stock | $ADRO | $ASII | $DMAS | $HEXA | $INDF | $ITMG | $LPPF | $MPMX | $POWR | $PTBA | $SIDO | $SPTO | $TLKM | $UNTR | $UNVR |
+|  | $ADRO | $ASII | $DMAS | $HEXA | $INDF | $ITMG | $LPPF | $MPMX | $POWR | $PTBA | $SIDO | $SPTO | $TLKM | $UNTR | $UNVR |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | Jan | | | | | | | | | | | | | | | | 
 | Feb | | | | | | | | | | | | | | | |
 | Mar | | | | | | | | | | | | | | | |
 | Apr | | | | | | | | | | | | | | | |
-| May | | | | | | | | | | | | | | | |
-| Jun | | | | | | | | | | | | | | | |
-| Jul | | | | | | | | | | | | | | | |
+| May | F | F | | | | | | | | | | | | | |
+| Jun | | | | |  | | | | | | | | | | |
+| Jul | | | | | F | | | | | | | | | | |
 | Aug | | | | | | | | | | | | | | | |
 | Sep | | | | | | | | | | | | | | | |
-| Oct | | | | | | | | | | | | | | | |
+| Oct | | | I | | | | | | | | | | | | |
 | Nov | | | | | | | | | | | | | | | |
-| Dec | | | | | | | | | | | | | | | |
+| Dec | I    | | I | | | | | | | | | | | | |
 
 
 
