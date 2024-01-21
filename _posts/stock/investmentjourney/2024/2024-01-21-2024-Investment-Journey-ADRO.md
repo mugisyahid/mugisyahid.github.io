@@ -42,7 +42,7 @@ mermaid: true
 |Total|16|15|15|15|15|15|16|16|16|16|16|16|17|
 |Up Probability|50%|47%|47%|53%|33%|33%|75%|50%|56%|50%|38%|44%|47%|
 
-
+<br />
 ## Activity 
 - 19 January 2024
 Turun ke 2430. Buy
