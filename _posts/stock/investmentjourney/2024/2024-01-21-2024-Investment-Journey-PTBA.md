@@ -1,18 +1,18 @@
 ---
 layout: post
-title: "2024 Investment Journey POWR"
+title: "2024 Investment Journey PTBA"
 date: 2024-01-21
-description: 2024 Investment Journey POWR
+description: 2024 Investment Journey PTBA
 tags: stock timethemarket investmentjourney
 mermaid: true
 ---
 
-# 2024 Investment Journey POWR
+# 2024 Investment Journey PTBA
 
 
 ## Seasonality per 2023
 
-|[Stockbit](https://stockbit.com/symbol/POWR/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
+|[Stockbit](https://stockbit.com/symbol/PTBA/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Average|00.17|01.29|01.49|06.24|01.44|01.22|02.01|-0.23|-0.34|03.08|01.10|03.47|29.92
 2024|07.38||||||||||||07.38
@@ -39,7 +39,7 @@ Average|00.17|01.29|01.49|06.24|01.44|01.22|02.01|-0.23|-0.34|03.08|01.10|03.47|
 
 <br />
 
-|[Stockbit](https://stockbit.com/symbol/POWR/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
+|[Stockbit](https://stockbit.com/symbol/PTBA/seasonality)|Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|Year|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 Up|9|12|9|13|10|10|13|9|7|9|6|13|11
 Down|11|7|9|6|9|9|6|10|12|10|13|5|9
